@@ -6,27 +6,27 @@
 </div>
 
 ## 2. Movimentações Financeiras<br>
-- **O que é? Para que serve?**<br>
-  - (Resumo breve)<br>
- - **Configurações** <br>
-   - (Resumo breve
- - **Movimentação de Conta**<br>
-    - (Resumo breve de cada campo e vídeo)
- - **Tipo de Movimentação** 
-   - (Resumo breve)</dt> <br>
- - **Como criar um *"Tipo de Movimentação?"***<br>
-   - (Resumo breve e vídeo)<br>
- - **Como editar um *"Tipo de Movimentação?"***
-   - (Resumo breve e vídeo)<br>
- - **Como excluir um *"Tipo de Movimentação?"***
-   - (Resumo breve e vídeo)<br>
- - **Tipos de Titulos**
-   - (Resumo breve)<br>
- - **Como criar?**
-   - (Resumo breve e vídeo)<br>
- - **Como editar?**
-   - (Resumo breve e vídeo)<br>
- - ***Como excluir?**
+   **2.1 - O que é? Para que serve?**<br>
+   (Resumo breve)<br>
+   **2.2 Configurações** <br>
+   (Resumo breve)<br> 
+   **2.2.1 Movimentação de Conta**<br>
+   (Resumo breve de cada campo e vídeo)<br>
+   **2.2.2 Tipo de Movimentação** <br>
+   (Resumo breve)<br>
+   **2.2.2.1 Como criar um Tipo de Movimentação?**<br>
+   (Resumo breve e vídeo)<br>
+   **2.2.2.2 Como editar um Tipo de Movimentação?**<br>
+   (Resumo breve e vídeo)<br>
+   **2.2.2.3Como excluir um Tipo de Movimentação?**<br>
+   (Resumo breve e vídeo)<br>
+   **2.2.3 Tipos de Titulos**
+   (Resumo breve)<br>
+   **Como criar?**
+   (Resumo breve e vídeo)<br>
+   **Como editar?**
+   (Resumo breve e vídeo)<br>
+   **Como excluir?**
    - (Resumo breve e vídeo)<br>
     2.2.4 - Centro de Custo (Resumo breve)<br>
             2.2.4.1 - Como criar? (Resumo breve e vídeo)<br>
