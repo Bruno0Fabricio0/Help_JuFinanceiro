@@ -1,19 +1,58 @@
-
-
 <div align="center">
-<img src="./images/maia1.jpg">
+ 
+![maia1](https://user-images.githubusercontent.com/49403097/198589876-3c39e26e-5bd5-472c-9981-dede8e285952.jpg)
 
 <i>Material recomendado pela Maia Produção de Softwares</i>
 </div>
 
-<h2> 1. Organizações Financeiras </h2>
-
- <h3>1.1 O que é e para que serve uma organização financeira ?</h3>
-<p>Um dos hábitos mais importantes para manter a organização financeira é fazer um controle mensal de seu fluxo de caixa. Para isso o JuFinanceiro conta com o modelu de Organizações Financeiras, é preciso ter clareza não apenas sobre o valor do seu salário líquido (e outras fontes de renda mensais), mas também sobre o seu custo de vida e principais gastos.
- <h3>1.2 Como criar uma conta no JUFinanceiro ? </h3>
-
- <p align="center">
-  <img width="460px" height="360" src="/home/bruno0/Documentos/Help - JUFinanceiro/gifs/Ju.gif">
-</p>
-
-Acesse  página oficial do JuFinanceiro [disponível aqui:](https://financeiro.homolog.janelaunica.com.br/#/login)
+## 2. Movimentações Financeiras<br>
+- **O que é? Para que serve?**<br>
+  - (Resumo breve)<br>
+ - **Configurações** <br>
+   - (Resumo breve
+ - **Movimentação de Conta**<br>
+    - (Resumo breve de cada campo e vídeo)
+ - **Tipo de Movimentação** 
+   - (Resumo breve)</dt> <br>
+ - **Como criar um *"Tipo de Movimentação?"***<br>
+   - (Resumo breve e vídeo)<br>
+ - **Como editar um *"Tipo de Movimentação?"***
+   - (Resumo breve e vídeo)<br>
+ - **Como excluir um *"Tipo de Movimentação?"***
+   - (Resumo breve e vídeo)<br>
+ - **Tipos de Titulos**
+   - (Resumo breve)<br>
+ - **Como criar?**
+   - (Resumo breve e vídeo)<br>
+ - **Como editar?**
+   - (Resumo breve e vídeo)<br>
+ - ***Como excluir?**
+   - (Resumo breve e vídeo)<br>
+    2.2.4 - Centro de Custo (Resumo breve)<br>
+            2.2.4.1 - Como criar? (Resumo breve e vídeo)<br>
+            2.2.4.2 - Como editar? (Resumo breve e vídeo)<br>
+            2.2.4.3 - Como excluir? (Resumo breve e vídeo)<br>
+2.3 - **Contas Financeiras (Resumo breve)**<br>
+    2.3.1 - Como criar? (Resumo breve e vídeo)<br>
+    2.3.2 - Como editar? (Resumo breve e vídeo)<br>
+    2.3.3 - Como excluir? (Resumo breve e vídeo)<br>
+    2.3.4 - Como Emitir Extrato da Conta? (Resumo breve e vídeo)<br>
+2.4 - **Planos de Contas (Resumo breve)**<br>
+    2.4.1 - Como criar? (Resumo breve e vídeo)<br>
+    2.4.2 - Como editar? (Resumo breve e vídeo)<br>
+    2.4.3 - Como excluir? (Resumo breve e vídeo)<br>
+    2.4.4 - Contas Analíticas (Resumo breve)<br>
+        2.4.4.1 - Como criar? (Resumo breve e vídeo)<br>
+        2.4.4.2 - Como editar? (Resumo breve e vídeo)<br>
+        2.4.4.3 - Como excluir? (Resumo breve e vídeo)<br>
+2.5 - **Movimentação da Conta (Resumo breve)**<br>
+    2.5.1 - Como criar? (Resumo breve e vídeo)<br>
+    2.5.2 - Como editar? (Resumo breve e vídeo)<br>
+    2.5.3 - Como excluir? (Resumo breve e vídeo)<br>
+2.6 - **Transferência entre Contas (Resumo Breve)**<br>
+    2.6.1 - Como criar? (Resumo breve e vídeo)<br>
+2.7 - **Relatórios**<br>
+- Demonstrativo de Receitas e Despesas (Resumo breve e vídeo de como emitir) <br>
+    - Demonstrativo de Movimentações (Resumo breve e vídeo de como emitir) <br>
+    2.7.3 - Comparativo de Planos de Conta (Resumo breve e vídeo de como emitir)<br>
+    2.7.4 - Extrato da Conta (Resumo breve e vídeo de como emitir) <br>
