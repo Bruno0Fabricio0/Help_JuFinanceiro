@@ -1,6 +1,7 @@
 <div align="center">
  
-![maia1](https://user-images.githubusercontent.com/49403097/198589876-3c39e26e-5bd5-472c-9981-dede8e285952.jpg)
+![maia](https://user-images.githubusercontent.com/49403097/199071278-bbed41e9-356e-4df8-81b0-003cf07ed29c.jpg)
+
 
 <i>Material recomendado pela Maia Produção de Softwares</i>
 </div>
