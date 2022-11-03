@@ -22,13 +22,8 @@ O gerenciamento de diferentes organizações financeiras é muito simples e pode
 
 ### 1.3 Como editar e quem pode editar uma Organização Financeira?
 
-Para editar uma _Organização Financeira_, localize a _Organização Financeira_ desejada em > **Editar** > Altere os dados desejados e clique em > **Salvar**.
+Para editar uma _Organização Financeira_, localize a _Organização Financeira_ desejada clique em **Editar** > Altere os dados desejados e clique em **Salvar**.
 
-<p>Quando estiver pronto, clique em Continue.<br>
-Enviaremos um link com instruções para verificar seu e-mail. Então, está tudo pronto.</P>
-
-### 1.3 Como editar? Quem pode editar? (Resumo breve e vídeo)
-Um dos hábitos mais importantes para manter a organização financeira é fazer um controle mensal de seu fluxo de caixa. Para isso o JuFinanceiro conta com o modelo de Organizações Financeiras, é preciso ter clareza não apenas sobre o valor do seu salário líquido (e outras fontes de renda mensais), mas também sobre o seu custo de vida e principais gastos.
  
 > 👨‍🏫 **NOTA** Somente usuários com a _Função_ de _**Proprietário**_, é que irão poder editar uma _Organização Financeira_.
 
