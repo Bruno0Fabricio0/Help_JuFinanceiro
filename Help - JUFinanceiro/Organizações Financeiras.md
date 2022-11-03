@@ -22,7 +22,7 @@ O gerenciamento de diferentes organizações financeiras é muito simples e pode
 
 ### 1.3 Como editar e quem pode editar uma Organização Financeira?
 
-Para editar uma _Organização Financeira_, localize a _Organização Financeira_ desejada clique em **Editar** > Altere os dados desejados e clique em **Salvar**.
+Para editar, localize a _Organização Financeira_ desejada clique em **Editar**. Altere os dados desejados e clique em **Salvar**.
 
  
 > 👨‍🏫 **NOTA** Somente usuários com a _Função_ de _**Proprietário**_, é que irão poder editar uma _Organização Financeira_.
