@@ -27,7 +27,7 @@ Para editar, localize a _Organização Financeira_ desejada clique em **Editar**
  
 > 👨‍🏫 **NOTA** Somente usuários com a _Função_ de _**Proprietário**_, é que irão poder editar uma _Organização Financeira_.
 
-### 1.4  Como excluir e quem pode excluir? (Resumo breve e vídeo)
+### 1.4  Como excluir e quem pode excluir?
 Além de poder editar uma _Organização Financeira_ é possível excluir. Para isso, basta apenas localizar a _Organização Financeira_ desejada e clicar em **Excluir** e **CONFIRMAR**.
 
 > 👨‍🏫 **NOTA** Somente usuários com a _Função_ de _**Proprietário**_, é que irão poder fazer a exclusão da _Organização Financeira_.
