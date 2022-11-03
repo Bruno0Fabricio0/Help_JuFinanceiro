@@ -30,8 +30,7 @@ Enviaremos um link com instruções para verificar seu e-mail. Então, está tud
 ### 1.3 Como editar? Quem pode editar? (Resumo breve e vídeo)
 Um dos hábitos mais importantes para manter a organização financeira é fazer um controle mensal de seu fluxo de caixa. Para isso o JuFinanceiro conta com o modelo de Organizações Financeiras, é preciso ter clareza não apenas sobre o valor do seu salário líquido (e outras fontes de renda mensais), mas também sobre o seu custo de vida e principais gastos.
  
-
-Por esse motivo o JuFinanceiro tem o modulo de Organizações Financeiras
+> 👨‍🏫 **NOTA** Somente usuários com a _Função_ de _**Proprietário**_, é que irão poder editar uma _Organização Financeira_.
 
 ### 1.4  Como excluir e quem pode excluir? (Resumo breve e vídeo)
 Além de poder editar uma _Organização Financeira_ é possível excluir. Para isso, basta apenas localizar a _Organização Financeira_ desejada e clicar em **Excluir** e **CONFIRMAR**.
