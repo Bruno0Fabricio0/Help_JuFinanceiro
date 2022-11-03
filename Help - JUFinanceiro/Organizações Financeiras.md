@@ -28,7 +28,7 @@ Siga estas etapas para criar uma conta no _JuFinanceiro:_
 
 3. Digite seu nome de usuário, e-mail e senha.
 
-![maia](https://user-images.githubusercontent.com/49403097/199071278-bbed41e9-356e-4df8-81b0-003cf07ed29c.jpg) 
+ ![criar conta](https://user-images.githubusercontent.com/49403097/199751149-10a4a144-e1c5-4fa2-8f3d-bdca851a1c5a.png)
 
 <p>Quando estiver pronto, clique em Continue.<br>
 Enviaremos um link com instruções para verificar seu e-mail. Então, está tudo pronto.</P>
