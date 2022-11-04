@@ -6,16 +6,22 @@
 </div>
 
 ## 2. Movimentações Financeiras<br>
-   **2.1 - O que é? Para que serve?**<br>
-   (Resumo breve)<br>
+   **2.1 - O que é Movimentações Financeiras e para que serve ?**<br>
+   O módulo de _Movimentações Financeiras_ é o lugar onde se concentra todas as informações sobre a sua _Organização Financeira_ cadastrada, seja ela _Pessoal_ ou _Negócio_.<br>
+   Fazendo com o que toda movimentação financeira feita seja controlada. Para que assim, o controle financeiro da sua _Organização_ seja assertivo  na análise e concilie as movimentações com os relatórios, visualize os saldos diários, e edite as configurações.<br>
+
    **2.2 Configurações** <br>
-   (Resumo breve)<br> 
+   (Resumo breve)<br>
+
    **2.2.1 Movimentação de Conta**<br>
    (Resumo breve de cada campo e vídeo)<br>
+
    **2.2.2 Tipo de Movimentação** <br>
    (Resumo breve)<br>
+
    **2.2.2.1 Como criar um Tipo de Movimentação?**<br>
    (Resumo breve e vídeo)<br>
+   
    **2.2.2.2 Como editar um Tipo de Movimentação?**<br>
    (Resumo breve e vídeo)<br>
    **2.2.2.3Como excluir um Tipo de Movimentação?**<br>
