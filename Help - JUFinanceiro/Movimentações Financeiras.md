@@ -16,7 +16,8 @@
    
    Acesse o **_JuFinanceiro_ ➡️ _Movimentações Financeiras_ ➡️ _Configurações_**:
 
-   Na tela que abrir, você terá alguns menus para selecionar, são eles:
+   Na tela que abrir, você terá alguns menus para selecionar, são eles: <br>
+   
    **2.2.1 Movimentação de Conta**<br>
    
    (   A _Movimentação da Conta_ é utilizada para efetuar lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas.
