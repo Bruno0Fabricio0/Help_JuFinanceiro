@@ -17,17 +17,10 @@
    Acesse o **_JuFinanceiro_ ➡️ _Movimentações Financeiras_ ➡️ _Configurações_**:
 
    Na tela que abrir, você terá alguns menus para selecionar, são eles:
-
-   1. Movimentação da Conta.<br>
-   A _Movimentação da Conta_ é utilizada para efetuar lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas.
-
-   2. Tipos de Movimentações Financeira.
-   3. Tipo de Títulos.
-   4. Centro de Custo. 
-   5. Correções de Títulos. 
-
    **2.2.1 Movimentação de Conta**<br>
-   (Resumo breve de cada campo e vídeo)<br>
+   
+   (   A _Movimentação da Conta_ é utilizada para efetuar lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas.
+ e vídeo)<br>
 
    **2.2.2 Tipo de Movimentação** <br>
    (Resumo breve)<br>
