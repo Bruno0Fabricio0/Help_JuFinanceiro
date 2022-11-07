@@ -6,12 +6,25 @@
 </div>
 
 ## 2. Movimentações Financeiras<br>
-   **2.1 - O que é Movimentações Financeiras e para que serve ?**<br>
+   **2.1  O que é Movimentações Financeiras e para que serve ?**<br>
    O módulo de _Movimentações Financeiras_ é o lugar onde se concentra todas as informações sobre a sua _Organização Financeira_ cadastrada, seja ela _Pessoal_ ou _Negócio_.<br>
-   Fazendo com o que toda movimentação financeira feita seja controlada. Para que assim, o controle financeiro da sua _Organização_ seja assertivo  na análise e concilie as movimentações com os relatórios, visualize os saldos diários, e edite as configurações.<br>
+
+   Fazendo com o que toda movimentação financeira feita seja controlada. Para que assim, o controle financeiro da sua _Organização_ seja assertivo  na análise e concilie as movimentações com os relatórios, visualização dos saldos diários e editar as configurações.<br>
 
    **2.2 Configurações** <br>
-   (Resumo breve)<br>
+   Neste menu você encontrará configurações importantes que irão influenciar a sua rotina de trabalho.
+   
+   Acesse o **_JuFinanceiro_ ➡️ _Movimentações Financeiras_ ➡️ _Configurações_**:
+
+   Na tela que abrir, você terá alguns menus para selecionar, são eles:
+
+   1. Movimentação da Conta.<br>
+   A _Movimentação da Conta_ é utilizada para efetuar lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas.
+
+   2. Tipos de Movimentações Financeira.
+   3. Tipo de Títulos.
+   4. Centro de Custo. 
+   5. Correções de Títulos. 
 
    **2.2.1 Movimentação de Conta**<br>
    (Resumo breve de cada campo e vídeo)<br>
