@@ -7,37 +7,46 @@
 
 ## 2. Movimentações Financeiras<br>
    **2.1  O que é Movimentações Financeiras e para que serve ?**<br>
-   O módulo de _Movimentações Financeiras_ é o lugar onde se concentra todas as informações sobre a sua _Organização Financeira_ cadastrada, seja ela _Pessoal_ ou _Negócio_.<br>
+
+   O módulo de _Movimentações Financeiras_ é o lugar onde se concentra todas as movimentações de conta sobre a sua _Organização Financeira_ selecionada, seja ela _Pessoal_ ou _Negócio_.<br>
 
    Fazendo com o que toda movimentação financeira feita seja controlada. Para que assim, o controle financeiro da sua _Organização_ seja assertivo  na análise e concilie as movimentações com os relatórios, visualização dos saldos diários e editar as configurações.<br>
 
    **2.2 Configurações** <br>
+
    Neste menu você encontrará configurações importantes que irão influenciar a sua rotina de trabalho.
    
    Acesse o **_JuFinanceiro_ ➡️ _Movimentações Financeiras_ ➡️ _Configurações_**:
 
    Na tela que abrir, você terá alguns menus para selecionar, são eles:
 
-   1. Movimentação da Conta.<br>
-   A _Movimentação da Conta_ é utilizada para efetuar lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas.
-
-   2. Tipos de Movimentações Financeira.
-   3. Tipo de Títulos.
-   4. Centro de Custo. 
-   5. Correções de Títulos. 
-
    **2.2.1 Movimentação de Conta**<br>
-   (Resumo breve de cada campo e vídeo)<br>
+
+   A _**Movimentação da Conta**_ é utilizada para configurar um padrão de informações e periodo de bloqueio de determinada Movimentação da Conta, esse limite para bloqueio server para controlar eventuais lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas.
+   
+   (vídeo)<br>
 
    **2.2.2 Tipo de Movimentação** <br>
-   (Resumo breve)<br>
+
+   O _**Tipo de movimentação**_ é uma forma de classificar os lançamentos financeiros para poder ter facilidade no controle e análise dos pagamentos ou recebimentos feitos. É possível adicionar diversos tipos de movimentações.<br>
+
+   (Video)<br>
 
    **2.2.2.1 Como criar um Tipo de Movimentação?**<br>
-   (Resumo breve e vídeo)<br>
+
+   Acesse o **_JuFinanceiro_ ➡️ _Movimentações Financeiras_ ➡️ _Configurações_ ➡️ Tipo de Movimentações Financeiras ➡️ Adicionar**:
    
-   **2.2.2.2 Como editar um Tipo de Movimentação?**<br>
-   (Resumo breve e vídeo)<br>
-   **2.2.2.3Como excluir um Tipo de Movimentação?**<br>
+   Preencha os campos, Nome, Descrição, Código de até _3 caracteres_, Tipo (Receita ou Despesa) e o Status da movimentação financeira.
+
+   (vídeo)<br>
+   
+   **2.2.2.2 Como editar um Tipo de Movimentação Financeira?**<br>
+
+   Em _**Configurações ➡️ Tipo de Movimentações Financeiras**_, é possível também editar um tipo de movimentação financeira, basta clicar no botão de Editar.
+
+   (vídeo)<br>
+
+   **2.2.2.3 Como excluir um Tipo de Movimentação?**<br>
    (Resumo breve e vídeo)<br>
    **2.2.3 Tipos de Titulos**
    (Resumo breve)<br>
