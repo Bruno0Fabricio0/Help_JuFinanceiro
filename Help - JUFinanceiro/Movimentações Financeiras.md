@@ -18,7 +18,6 @@
    
    Acesse o **_JuFinanceiro_ ➡️ _Movimentações Financeiras_ ➡️ _Configurações_**:
 
-<<<<<<< HEAD
    Na tela que abrir, você terá alguns menus para selecionar, são eles:
 
    **2.2.1 Movimentação de Conta**<br>
@@ -26,15 +25,14 @@
    A _**Movimentação da Conta**_ é utilizada para configurar um padrão de informações e periodo de bloqueio de determinada Movimentação da Conta, esse limite para bloqueio server para controlar eventuais lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas.
    
    (vídeo)<br>
-=======
+
    Na tela que abrir, você terá alguns menus para selecionar, são eles: <br>
    
    **2.2.1 Movimentação de Conta**<br>
    
    (   A _Movimentação da Conta_ é utilizada para efetuar lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas.
  e vídeo)<br>
->>>>>>> 6aa093c0be3c73beb4f9ce72a8791d157411a757
-
+ 
    **2.2.2 Tipo de Movimentação** <br>
 
    O _**Tipo de movimentação**_ é uma forma de classificar os lançamentos financeiros para poder ter facilidade no controle e análise dos pagamentos ou recebimentos feitos. É possível adicionar diversos tipos de movimentações.<br>
