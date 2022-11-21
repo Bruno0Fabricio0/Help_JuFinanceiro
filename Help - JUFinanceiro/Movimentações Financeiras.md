@@ -30,8 +30,9 @@
    
    **2.2.1 Movimentação de Conta**<br>
    
-   (   A _Movimentação da Conta_ é utilizada para efetuar lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas.
- e vídeo)<br>
+   A _Movimentação da Conta_ é utilizada para efetuar lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas
+   
+   (vídeo)<br>
  
    **2.2.2 Tipo de Movimentação** <br>
 
@@ -49,12 +50,16 @@
    
    **2.2.2.2 Como editar um Tipo de Movimentação Financeira?**<br>
 
-   Em _**Configurações ➡️ Tipo de Movimentações Financeiras**_, é possível também editar um tipo de movimentação financeira, basta clicar no botão de Editar.
+   Em _**Configurações ➡️ Tipo de Movimentações Financeiras**_, é possível também editar um tipo de movimentação financeira, basta clicar no botão de _**Editar**_.
 
    (vídeo)<br>
 
    **2.2.2.3 Como excluir um Tipo de Movimentação?**<br>
-   (Resumo breve e vídeo)<br>
+
+   Em _**Configurações ➡️ Tipo de Movimentações Financeiras**_, é possível também excluir um tipo de movimentação financeira, basta clicar no botão de _**Excluir**_.
+   
+   (vídeo)<br>
+
    **2.2.3 Tipos de Titulos**
    (Resumo breve)<br>
    **Como criar?**
@@ -62,8 +67,8 @@
    **Como editar?**
    (Resumo breve e vídeo)<br>
    **Como excluir?**
-   - (Resumo breve e vídeo)<br>
-    2.2.4 - Centro de Custo (Resumo breve)<br>
+    (Resumo breve e vídeo)<br>
+     2.2.4 - Centro de Custo (Resumo breve)<br>
             2.2.4.1 - Como criar? (Resumo breve e vídeo)<br>
             2.2.4.2 - Como editar? (Resumo breve e vídeo)<br>
             2.2.4.3 - Como excluir? (Resumo breve e vídeo)<br>
