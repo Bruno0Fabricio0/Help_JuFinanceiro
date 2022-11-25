@@ -5,14 +5,14 @@
 <i>Material recomendado pela Maia Produção de Softwares</i>
 </div>
 
-## 2. Movimentações Financeiras<br>
-   **2.1  O que é Movimentações Financeiras e para que serve ?**<br>
+## 2. Movimentações Financeiras
+   **2.1  O que é Movimentações Financeiras e para que serve ?**
 
-   O módulo de _Movimentações Financeiras_ é o lugar onde se concentra todas as movimentações de conta sobre a sua _Organização Financeira_ selecionada, seja ela _Pessoal_ ou _Negócio_.<br>
+   O módulo de _Movimentações Financeiras_ é o lugar onde se concentra todas as movimentações de conta sobre a sua _Organização Financeira_ selecionada, seja ela _Pessoal_ ou _Negócio_.
 
-   Fazendo com o que toda movimentação financeira feita seja controlada. Para que assim, o controle financeiro da sua _Organização_ seja assertivo  na análise e concilie as movimentações com os relatórios, visualização dos saldos diários e editar as configurações.<br>
+   Fazendo com o que toda movimentação financeira feita seja controlada. Para que assim, o controle financeiro da sua _Organização_ seja assertivo  na análise e concilie as movimentações com os relatórios, visualização dos saldos diários e editar as configurações.
 
-   **2.2 Configurações** <br>
+   **2.2 Configurações**
 
    Neste menu você encontrará configurações importantes que irão influenciar a sua rotina de trabalho.
    
@@ -20,58 +20,80 @@
 
    Na tela que abrir, você terá alguns menus para selecionar, são eles:
 
-   **2.2.1 Movimentação de Conta**<br>
+   **2.2.1 Movimentação de Conta**
 
    A _**Movimentação da Conta**_ é utilizada para configurar um padrão de informações e periodo de bloqueio de determinada Movimentação da Conta, esse limite para bloqueio server para controlar eventuais lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas.
    
-   (vídeo)<br>
+   (vídeo)
 
-   Na tela que abrir, você terá alguns menus para selecionar, são eles: <br>
+   Na tela que abrir, você terá alguns menus para selecionar, são eles:
    
-   **2.2.1 Movimentação de Conta**<br>
-   
-   A _Movimentação da Conta_ é utilizada para efetuar lançamentos entre contas financeiras, controlando somente entradas e saídas de valores entre contas
-   
-   (vídeo)<br>
- 
-   **2.2.2 Tipo de Movimentação** <br>
+   **2.2.2 Tipo de Movimentação**
 
-   O _**Tipo de movimentação**_ é uma forma de classificar os lançamentos financeiros para poder ter facilidade no controle e análise dos pagamentos ou recebimentos feitos. É possível adicionar diversos tipos de movimentações.<br>
+   O _**Tipo de movimentação**_ é uma forma de classificar os lançamentos financeiros para poder ter facilidade no controle e análise dos pagamentos ou recebimentos feitos. É possível adicionar diversos tipos de movimentações.
 
-   (Video)<br>
+   (Video)
 
-   **2.2.2.1 Como criar um Tipo de Movimentação?**<br>
+   **2.2.2.1 Como criar um Tipo de Movimentação?**
 
    Acesse o **_JuFinanceiro_ ➡️ _Movimentações Financeiras_ ➡️ _Configurações_ ➡️ Tipo de Movimentações Financeiras ➡️ Adicionar**:
    
    Preencha os campos, Nome, Descrição, Código de até _3 caracteres_, Tipo (Receita ou Despesa) e o Status da movimentação financeira.
 
-   (vídeo)<br>
+   (vídeo)
    
-   **2.2.2.2 Como editar um Tipo de Movimentação Financeira?**<br>
+   **2.2.2.2 Como editar um Tipo de Movimentação Financeira?**
 
    Em _**Configurações ➡️ Tipo de Movimentações Financeiras**_, é possível também editar um tipo de movimentação financeira, basta clicar no botão de _**Editar**_.
 
-   (vídeo)<br>
+   (vídeo)
 
-   **2.2.2.3 Como excluir um Tipo de Movimentação?**<br>
+   **2.2.2.3 Como excluir um Tipo de Movimentação?**
 
    Em _**Configurações ➡️ Tipo de Movimentações Financeiras**_, é possível também excluir um tipo de movimentação financeira, basta clicar no botão de _**Excluir**_.
    
    (vídeo)<br>
 
-   **2.2.3 Tipos de Titulos**
-   (Resumo breve)<br>
-   **Como criar?**
-   (Resumo breve e vídeo)<br>
+   **2.2.3 Tipos de Títulos**
+   
+   Os **Tipos de Títulos** definem as diversas espécies de títulos existentes. Os valores a receber ou a pagar são agrupados de acordo com os tipos de títulos criados.<br>
+   Os tipos de títulos definem qual a forma de atualização dos saldos controlados pelo sistema.
+
+> 👨‍🏫 **Exemplo de Tipos de Títulos**<br> 
+    Duplicata, boleto, cheque pré-datado, crédito, pagamento em duplicidade, pagamento indevido.<br>
+
+> 👨‍🏫 **NOTA**<br>
+    Recomenda-se utilizar uma **Sigla** que identifique facilmente o título a pagar/receber.
+
+   **Como criar um Tipo de Título?**
+   
+   Acesse o **_JuFinanceiro_ ➡️ _Movimentações Financeiras_ ➡️ _Configurações_ ➡️ _Tipo de Títulos ➡️ Adicionar_**:
+   
+   Preencha os campos, **Nome, Sigla e o Status** do Tipo de Titulo.
+
+   (vídeo)<br>
+
    **Como editar?**
-   (Resumo breve e vídeo)<br>
+
+   Em _**Configurações ➡️ Tipo de Títulos**_, é possível também editar um tipo de título, basta clicar no botão de _**Editar**_.
+   
+   (vídeo)
+
    **Como excluir?**
-    (Resumo breve e vídeo)<br>
-     2.2.4 - Centro de Custo (Resumo breve)<br>
-            2.2.4.1 - Como criar? (Resumo breve e vídeo)<br>
-            2.2.4.2 - Como editar? (Resumo breve e vídeo)<br>
-            2.2.4.3 - Como excluir? (Resumo breve e vídeo)<br>
+
+   Em _**Configurações ➡️ Tipo de Títulos**_, é possível também excluir um tipo de título, basta clicar no botão de _**Excluir**_.
+    
+   (vídeo)
+
+   **2.2.4 - Centro de Custo**
+   
+   (Resumo breve)<br>
+   
+   2.2.4.1 - Como criar um Centro de Custo? (Resumo breve e vídeo)<br>
+   
+   2.2.4.2 - Como editar Centro de Custo? (Resumo breve e vídeo)<br>
+   
+   2.2.4.3 - Como excluir Centro de Custo? (Resumo breve e vídeo)<br>
 2.3 - **Contas Financeiras (Resumo breve)**<br>
     2.3.1 - Como criar? (Resumo breve e vídeo)<br>
     2.3.2 - Como editar? (Resumo breve e vídeo)<br>
@@ -96,3 +118,5 @@
     - Demonstrativo de Movimentações (Resumo breve e vídeo de como emitir) <br>
     2.7.3 - Comparativo de Planos de Conta (Resumo breve e vídeo de como emitir)<br>
     2.7.4 - Extrato da Conta (Resumo breve e vídeo de como emitir) <br>
+
+*
