@@ -56,7 +56,7 @@
 
    **2.2.3 Tipos de Títulos**
    
-   Os **Tipos de Títulos** definem as diversas espécies de títulos existentes. Os valores a receber ou a pagar são agrupados de acordo com os tipos de títulos criados.<br>
+   Os **_Tipos de Títulos_** definem as diversas espécies de títulos existentes. Os valores a receber ou a pagar são agrupados de acordo com os tipos de títulos criados.<br>
    Os tipos de títulos definem qual a forma de atualização dos saldos controlados pelo sistema.
 
 > 👨‍🏫 **Exemplo de Tipos de Títulos**<br> 
@@ -65,21 +65,21 @@
 > 👨‍🏫 **NOTA**<br>
     Recomenda-se utilizar uma **Sigla** que identifique facilmente o título a pagar/receber.
 
-   **Como criar um Tipo de Título?**
+   **2.2.3.1 Como criar um Tipo de Título?**
    
    Acesse o **_JuFinanceiro_ ➡️ _Movimentações Financeiras_ ➡️ _Configurações_ ➡️ _Tipo de Títulos ➡️ Adicionar_**:
    
    Preencha os campos, **Nome, Sigla e o Status** do Tipo de Titulo.
 
-   (vídeo)<br>
+   (vídeo)
 
-   **Como editar?**
+   **2.2.3.2 Como editar?**
 
    Em _**Configurações ➡️ Tipo de Títulos**_, é possível também editar um tipo de título, basta clicar no botão de _**Editar**_.
    
    (vídeo)
 
-   **Como excluir?**
+   **2.2.3.3 Como excluir?**
 
    Em _**Configurações ➡️ Tipo de Títulos**_, é possível também excluir um tipo de título, basta clicar no botão de _**Excluir**_.
     
@@ -87,13 +87,32 @@
 
    **2.2.4 - Centro de Custo**
    
-   (Resumo breve)<br>
+   O centro de custo é uma forma de classificar os lançamentos financeiros para poder ter facilidade no controle e análise dos pagamentos ou recebimentos feitos. É possível criar centros de custo para projetos, departamentos ou até unidades de negócio.
    
-   2.2.4.1 - Como criar um Centro de Custo? (Resumo breve e vídeo)<br>
+   Por exemplo, se você precisa medir os gastos de cada setor de sua empresa, pode criar centros de custos para cada um deles. Isso irá auxiliar a gestão financeira da empresa na identificação das áreas que precisam reduzir gastos ou aumentar o investimento. 
    
-   2.2.4.2 - Como editar Centro de Custo? (Resumo breve e vídeo)<br>
+   **2.2.4.1 - Como criar um Centro de Custo?**
    
-   2.2.4.3 - Como excluir Centro de Custo? (Resumo breve e vídeo)<br>
+   Acesse o **_JuFinanceiro_ ➡️ _Movimentações Financeiras_ ➡️ _Configurações_ ➡️ _Centro de Custo ➡️ Adicionar_**:
+   
+   Preencha os campos, **Nome, Sigla e o Status** do Centro de Custo.
+
+   
+   (vídeo)
+
+   **2.2.4.2 - Como editar Centro de Custo?**
+
+   Em _**Configurações ➡️ Centro de Custo**_, é possível também editar um tipo de título, basta clicar no botão de _**Editar**_.
+   
+   (vídeo)
+   
+   **2.2.4.3 - Como excluir Centro de Custo?**
+
+   Em _**Configurações ➡️ Centro de Custo**_, é possível também excluir um tipo de título, basta clicar no botão de _**Excluir**_.
+
+   (vídeo)
+
+
 2.3 - **Contas Financeiras (Resumo breve)**<br>
     2.3.1 - Como criar? (Resumo breve e vídeo)<br>
     2.3.2 - Como editar? (Resumo breve e vídeo)<br>
