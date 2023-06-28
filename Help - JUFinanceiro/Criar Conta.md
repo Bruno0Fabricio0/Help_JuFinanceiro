@@ -1,6 +1,6 @@
-<div align="center">
+<div>
 
-![maia](https://user-images.githubusercontent.com/49403097/199071278-bbed41e9-356e-4df8-81b0-003cf07ed29c.jpg)
+<img src="./imagens/maia.jpg" width="50%"/>
 
 <i>Material recomendado pela Maia Produção de Softwares</i>
 </div>
@@ -14,9 +14,24 @@ Siga estas etapas para criar uma conta no _JuFinanceiro:_
  
 2. Clique no link [Criar uma conta](https://financeiro.homolog.janelaunica.com.br/#/registro)
 
-3. Digite seu nome de usuário, e-mail e senha.
 
- ![criar conta](https://user-images.githubusercontent.com/49403097/199751149-10a4a144-e1c5-4fa2-8f3d-bdca851a1c5a.png)
+<p>3. Preencha os campos:</p>
 
-Quando estiver pronto, clique em **Continue.**<br>
+1. Nome de usuário.
+2. e-mail. 
+3. Senha. 
+4. Clique em concordo com os termos e serviço e políticas e privacidade. 
+
+<img src="./imagens/criar_conta.png" width="50%"/>
+
+Quando estiver pronto, clique em **CONTINUE.**<br>
+
+Em seguinda informe se o tipo de conta é **PESSOAL** ou de **NEGÓCIO**:
+
+<img src="./imagens/tipodecontapng.png" alt="tipo de conta" width="50%"/>
+
+Quando estiver pronto, clique em **CRIAR CONTA.**<br>
+
 Enviaremos um link com instruções para verificar seu e-mail. Então, está tudo pronto.
+
+
