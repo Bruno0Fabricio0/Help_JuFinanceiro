@@ -22,16 +22,14 @@ Siga estas etapas para criar uma conta no _JuFinanceiro:_
 3. Senha. 
 4. Clique em concordo com os termos e serviço e políticas e privacidade. 
 
-<img src="./imagens/criar_conta.png" width="50%"/>
-
 Quando estiver pronto, clique em **CONTINUE.**<br>
 
 Em seguinda informe se o tipo de conta é **PESSOAL** ou de **NEGÓCIO**:
 
-<img src="./imagens/tipodecontapng.png" alt="tipo de conta" width="50%"/>
-
 Quando estiver pronto, clique em **CRIAR CONTA.**<br>
 
 Enviaremos um link com instruções para verificar seu e-mail. Então, está tudo pronto.
+
+<img src="./imagens/criarconta.gif" width="50%"/>
 
 
