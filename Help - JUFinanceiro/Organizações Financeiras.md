@@ -1,24 +1,34 @@
-<div align="center">
+<div>
  
-![maia](https://user-images.githubusercontent.com/49403097/199071278-bbed41e9-356e-4df8-81b0-003cf07ed29c.jpg)
-
+<img src="./imagens/maia.jpg" width="50%"/>
 
 <i>Material recomendado pela Maia Produção de Softwares</i>
 </div>
+
 
 ## 1. Organizações Financeiras 
 
  ### 1.1 O que é e para que serve uma organização financeira ?
 
 
-<p>A Organização Financeira é um agrupamento de informações financeiras que possibilita distinguir e administrar separadamente cada âmbito financeiro. Por exemplo: finanças pessoais e empresariais.
+<p>➡️ A Organização Financeira é um agrupamento de informações financeiras que possibilita distinguir e administrar separadamente cada âmbito financeiro. Por exemplo: finanças pessoais e empresariais.
 
-Cada Organização Financeira é independente, isolada das demais e possui suas próprias configurações, contas correntes, plano de contas, usuários que acessam, etc.
+➡️ Cada Organização Financeira é independente, isolada das demais e possui suas próprias configurações, contas correntes, plano de contas, usuários que acessam, etc.
 
-O gerenciamento de diferentes organizações financeiras é muito simples e pode ser feito utilizando a mesma assinatura e login. Para isso, basta alternar para a organização financeira que desejar gerir no momento.
+➡️ O gerenciamento de diferentes organizações financeiras é muito simples e pode ser feito utilizando a mesma assinatura e login. Para isso, basta alternar para a organização financeira que desejar gerir no momento.
 
  ### 1.2 Como criar uma Organização Financeira?
- Para criar uma _Organização Financeira_ basta clicar em **Adicionar**, escolha o tipo de organização **PESSOAL** ou **NEGÓCIO** preencha as informações obrigatórias: Nome, CPF/CNPJ, Pais, Moeda e Data Padrão e clique **SALVAR**.
+ Para criar uma _Organização Financeira_ basta clicar em **Adicionar**, escolha o tipo de organização **PESSOAL** ou **NEGÓCIO** preencha as informações obrigatórias: 
+ 1. Nome.
+ 2. CPF/CNPJ.
+ 3. Pais.
+ 4. Moeda .
+ 5. Data Padrão.
+
+ 
+ clique **SALVAR**.
+
+<img src="./gifs/adicionando%20organiza%C3%A7%C3%A3o%20financeira.gif" width="50%">
 
 ### 1.3 Como editar e quem pode editar uma Organização Financeira?
 
@@ -33,3 +43,5 @@ Além de poder editar uma _Organização Financeira_ é possível excluir. Para 
 
 > 👨‍🏫 **NOTA** <br>
 Somente usuários com a _Função_ de _**Proprietário**_, é que irão poder fazer a exclusão da _Organização Financeira_.
+
+<img src="./gifs/editando%20e%20exluindo%20org.gif" width="50%">

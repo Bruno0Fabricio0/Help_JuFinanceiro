@@ -1,6 +1,6 @@
-<div align="center">
+<div>
  
-![maia1](https://user-images.githubusercontent.com/49403097/198589876-3c39e26e-5bd5-472c-9981-dede8e285952.jpg)
+<img src="./imagens/maia.jpg" width="50%"/>
 
 <i>Material recomendado pela Maia Produção de Softwares</i>
 </div>
