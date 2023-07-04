@@ -30,6 +30,6 @@ Quando estiver pronto, clique em **CRIAR CONTA.**<br>
 
 Enviaremos um link com instruções para verificar seu e-mail. Então, está tudo pronto.
 
-<img src="./gifs/cadastro.gif" width="50%"/>
+<img src="./gifs/criar%20conta/cadastro.gif" width="50%"/>
 
 

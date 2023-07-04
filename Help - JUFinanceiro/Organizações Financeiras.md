@@ -28,7 +28,7 @@
  
  clique **SALVAR**.
 
-<img src="./gifs/adicionando%20organiza%C3%A7%C3%A3o%20financeira.gif" width="50%">
+<img src="./gifs/organiza%C3%A7%C3%B5es%20financeiras/adicionando.gif" width="50%">
 
 ### 1.3 Como editar e quem pode editar uma Organização Financeira?
 
@@ -44,4 +44,4 @@ Além de poder editar uma _Organização Financeira_ é possível excluir. Para 
 > 👨‍🏫 **NOTA** <br>
 Somente usuários com a _Função_ de _**Proprietário**_, é que irão poder fazer a exclusão da _Organização Financeira_.
 
-<img src="./gifs/editando%20e%20exluindo%20org.gif" width="50%">
+<img src="./gifs/organiza%C3%A7%C3%B5es%20financeiras/excluindo%20e%20editando.gif" width="50%">
