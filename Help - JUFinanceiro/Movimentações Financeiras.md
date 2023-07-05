@@ -112,26 +112,83 @@
 
    (vídeo)
 
+<style>
+.container{
+    /**/
+}
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px 0;
+    flex-wrap: wrap;
+}
+
+.card{
+    position: relative;
+    width: 50%;
+    color: #fff;
+    border: 3px solid rgba(181,181,181,0.2);
+    border-radius: 15px;
+
+}
+
+.card__color-box{
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    height: 100%;
+    box-sizing: unset;
+    background-color: #027be3;
+    border: 3px solid #027be3;
+    box-shadow: 0 0 30px 5px rgba(2, 123, 277, 0.5);
+    border-radius: 15px 0 0 15px;
+    padding-left: 15px;
+}
+
+.card__info{
+    padding: 20px 20px 20px 40px;
+}
+
+.card__title{
+    padding-bottom: 10px;
+}
+
+</style>
+
 2.3 - **Contas Financeiras (Resumo breve)**<br />
 
-<h2><b>Contas Financeiras</b></h2>
-<p class="card__text">
-    <b>Preencha as seguintes informações:</b><br />
-    1. Nome.<br />
-    2. Instituição financeira.<br />
-    3. Agência.<br />
-    4. Conta.<br />
-    5. Posto.<br />
-    6. Data inicial.<br />
-    7.data de abertura.<br />
-    8. Moeda.<br />
-    9. Conta corrente.<br />
-    10. Iban - é o código de identificação de contas internacionais.<br />
-    11. Swift - é um código universal de identificação dos bancos, utilizado nas transferências para países estrangeiros.<br />
-    12. Valor inicial.<br />
-    13. Limite.<br />
-    14. Status.<br />
-</p><br />
+<div class="container">
+        <div class="cards">
+            <div class="card">
+                <div class="card__color-box"></div>
+                <div class="card__info">
+                    <h2 class="card__title">
+                        <b>Contas Financeiras</b>
+                    </h2>
+                    <p class="card__text">
+                        <b>Preencha as seguintes informações:</b><br />
+                        1. Nome.<br />
+                        2. Instituição financeira.<br />
+                        3. Agência.<br />
+                        4. Conta.<br />
+                        5. Posto.<br />
+                        6. Data inicial.<br />
+                        7.data de abertura.<br />
+                        8. Moeda.<br />
+                        9. Conta corrente.<br />
+                        10. Iban - é o código de identificação de contas internacionais.<br />
+                        11. Swift - é um código universal de identificação dos bancos, utilizado nas transferências para países estrangeiros.<br />
+                        12. Valor inicial.<br />
+                        13. Limite.<br />
+                        14. Status.<br />
+                        </p><br />
+                    </p>
+                </div>
+            </div>
+    </div>
+</div>
+<br />
 <p><b>Como criar, editar e Excluir?</b></p>
 <img src="./gifs/movimentacoes_financeiras/contas_financeiras/conta-financeira.gif" alt="imagem de help" width="50%">
 <p><b>Como Emitir Extrato da Conta?</b></p>
