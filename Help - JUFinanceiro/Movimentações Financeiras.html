@@ -55,8 +55,8 @@
         padding-bottom: 10px;
     }
     
-    .img-tema i{
-        margin-left: 12%;
+    .img-tema{
+        margin-top: 30px;
     }
     
     img{
@@ -126,6 +126,17 @@
 .teste5 {
    margin-left: 20px;
 }
+
+/* dando zoom na imagem */
+.zoomed {
+    width: 87%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    cursor: zoom-out;
+}
     
 </style>
 
@@ -149,10 +160,10 @@
                 </h2>
 
                 <p class="card__text">
-                    <p>O módulo de Movimentações Financeiras é o lugar onde se concentra todas as movimentações de conta sobre a sua organização Financeira selecionada, seja ela Pessoal ou Negócio.</p>
+                    <p> ➡️ O módulo de Movimentações Financeiras é o lugar onde se concentra todas as movimentações de conta sobre a sua organização Financeira selecionada, seja ela Pessoal ou Negócio.</p>
 
                     <p>
-                        Fazendo com o que toda movimentação financeira feita seja controlada. Para que assim, 
+                        ➡️ Fazendo com o que toda movimentação financeira feita seja controlada. Para que assim, 
                         o controle financeiro da sua organização seja assertivo  na análise e concilie as movimentações com os relatórios, 
                         visualização dos saldos diários e editar as configurações.
                     </p>
@@ -174,7 +185,7 @@
                     <b>2.2 Configurações</b>
                 </h2>
 
-                <p>Neste menu você encontrará configurações importantes que irão influenciar a sua rotina de trabalho.</p>
+                <p>➡️ Neste menu você encontrará configurações importantes que irão influenciar a sua rotina de trabalho.</p>
 
                 <p class="card__text">
                     <div class="teste1">
@@ -206,7 +217,7 @@
                 </h2>
 
                 <p class="card__text">
-                    A <b>Movimentação da Conta</b> é utilizada para configurar um padrão de informações e 
+                    ➡️ A <b>Movimentação da Conta</b> é utilizada para configurar um padrão de informações e 
                     periodo de bloqueio de determinada Movimentação da Conta, esse limite para bloqueio 
                     server para controlar eventuais lançamentos entre contas financeiras, controlando 
                     somente entradas e saídas de valores entre contas.
@@ -229,7 +240,7 @@
                 </h2>
 
                 <p class="card__text">
-                    O <b>tipo de movimentação</b> é uma forma de classificar os lançamentos financeiros 
+                    ➡️ O <b>tipo de movimentação</b> é uma forma de classificar os lançamentos financeiros 
                     para poder ter facilidade no controle e análise dos pagamentos ou recebimentos feitos. 
                     É possível adicionar diversos tipos de movimentações.
                 </p>
@@ -343,10 +354,22 @@
                 </h2>
 
                 <p class="card__text">
-                    Os <b>Tipos de Títulos</b> definem as diversas espécies de títulos existentes. Os valores a 
+                    ➡️ Os <b>Tipos de Títulos</b> definem as diversas espécies de títulos existentes. Os valores a 
                     receber ou a pagar são agrupados de acordo com os tipos de títulos criados.<br>
-                    Os tipos de títulos definem qual a forma de atualização dos saldos controlados pelo sistema
+                    ➡️ Os tipos de títulos definem qual a forma de atualização dos saldos controlados pelo sistema
                 </p>
+
+                <div class="alert alert-info" id="info">
+                > 👨‍🏫 **Exemplo de Tipos de Títulos**<br> 
+                    Duplicata, boleto, cheque pré-datado, crédito, pagamento em duplicidade, pagamento indevido.<br>
+                </div><br />
+                
+                <div class="alert alert-info" id="info">
+                > 👨‍🏫 **NOTA**<br>
+                    Recomenda-se utilizar uma **Sigla** que identifique facilmente o título a pagar/receber.
+                </div>
+                <br />
+                
             </div>
         </div>
     </div>
@@ -354,16 +377,7 @@
 
 <br />
 
-<div class="alert alert-info" id="info">
-> 👨‍🏫 **Exemplo de Tipos de Títulos**<br> 
-    Duplicata, boleto, cheque pré-datado, crédito, pagamento em duplicidade, pagamento indevido.<br>
-</div><br />
 
-<div class="alert alert-info" id="info">
-> 👨‍🏫 **NOTA**<br>
-    Recomenda-se utilizar uma **Sigla** que identifique facilmente o título a pagar/receber.
-</div>
-<br />
 
 <div class="container">
     <div class="cards">
@@ -467,10 +481,10 @@
                 </h2>
 
                 <p class="card__text">
-                    <p>O centro de custo é uma forma de classificar os lançamentos financeiros para poder ter facilidade no controle 
+                    <p>➡️ O centro de custo é uma forma de classificar os lançamentos financeiros para poder ter facilidade no controle 
                     e análise dos pagamentos ou recebimentos feitos. É possível criar centros de custo para projetos, departamentos ou até unidades de negócio.</p>
 
-                    <p>Por exemplo, se você precisa medir os gastos de cada setor de sua empresa, 
+                    <p>➡️ Por exemplo, se você precisa medir os gastos de cada setor de sua empresa, 
                         pode criar centros de custos para cada um deles. Isso irá auxiliar a gestão 
                         financeira da empresa na identificação das áreas que precisam reduzir gastos ou 
                         aumentar o investimento.</p>
@@ -574,7 +588,7 @@
 
 <br />
 
-<img src="./gifs/movimentacoes_financeiras/centro/centro_editar.gif" width="50%"><br /><br />
+<img src="./gifs/movimentacoes_financeiras/centro/centro_editar.gif" alt="imagem de help" width="43%"><br /><br />
 
 <div class="container">
     <div class="cards">
@@ -609,13 +623,8 @@
 
 </div>
 <br />
-<p><b>Como criar, editar e Excluir?</b></p>
-<img src="./gifs/movimentacoes_financeiras/contas_financeiras/conta-financeira.gif" alt="imagem de help" width="50%">
-<br />
 
-
-<p><b>Como Emitir Extrato da Conta?</b></p>
-<p><b>O extrato está com erro de vizulaizar e loop</b></p>
+<img src="./gifs/movimentacoes_financeiras/contas_financeiras/conta-financeira.gif" alt="imagem de help" width="50%"><br /><br />
 
 <div class="container">
     <div class="cards">
@@ -627,7 +636,8 @@
                 </h2>
 
                 <p class="card__text">
-                    <p>texto explicativo</p>
+                    <p>➡️ Plano de contas é uma ferramenta de gestão financeira para empresas, 
+                        que permite administrar as saídas e entradas</p>
                 </p>
             </div>
         </div>
@@ -636,9 +646,86 @@
 
 <br />
 
-    2.4.1 - Como criar? (Resumo breve e vídeo)<br>
-    2.4.2 - Como editar? (Resumo breve e vídeo)<br>
-    2.4.3 - Como excluir? (Resumo breve e vídeo)<br>
+<div class="container">
+    <div class="cards">
+        <div class="card">
+            <div class="card__color-box"></div>
+            <div class="card__info">
+                <h2 class="card__title">
+                    <b>Como criar ?</b>
+                </h2>
+
+                <p class="card__text">
+                    <div class="teste1">
+                        <b>Movimentações Financeiras</b>
+                        <div class="teste2">
+                            ↳<b>Plano de contas</b>
+                           <div class="teste3">
+                            ↳<b>Adicionar</b>
+                           </div>
+                        </div>
+                     </div>
+                    </p><br />
+
+                </p>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+
+<img src="./gifs/movimentacoes_financeiras/plano_de_contas/add.gif" alt="imagem de help" width="50%"><br /><br />
+
+<div class="container">
+    <div class="cards">
+        <div class="card">
+            <div class="card__color-box"></div>
+            <div class="card__info">
+                <h2 class="card__title">
+                    <b>Como editar ?</b>
+                </h2>
+
+                <p class="card__text">
+                    <div class="teste1">
+                        <b>Movimentações Financeiras</b>
+                        <div class="teste2">
+                            ↳<b>Plano de contas</b>
+                           <div class="teste3">
+                            ↳<b>Editar</b>
+                           </div>
+                        </div>
+                     </div>
+                    </p><br />
+
+                </p>
+
+                <h2 class="card__title">
+                    <b>Como excluir?</b>
+                </h2>
+
+                <p class="card__text">
+                    <div class="teste1">
+                        <b>Movimentações Financeiras</b>
+                        <div class="teste2">
+                            ↳<b>Plano de contas</b>
+                           <div class="teste3">
+                            ↳<b>Excluir</b>
+                           </div>
+                        </div>
+                     </div>
+                    </p><br />
+
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+
+<img src="./gifs/movimentacoes_financeiras/plano_de_contas/excluir.gif" alt="imagem de help" width="50%"><br /><br />
     
 <div class="container">
     <div class="cards">
@@ -650,7 +737,9 @@
                 </h2>
 
                 <p class="card__text">
-                    <p>texto explicativo</p>
+                    <p>➡️ As contas analíticas são aquelas que representam os elementos patrimoniais no maior grau de detalhamento. 
+                        O que são as contas sintéticas? Já as contas sintéticas são aquelas cujo saldo é calculado através da 
+                        soma de duas ou mais contas analíticas. Resumindo, a conta sintética será a soma de diversas contas analíticas.</p>
                 </p>
             </div>
         </div>
@@ -658,9 +747,87 @@
 </div>
     
 <br />
-        2.4.4.1 - Como criar? (Resumo breve e vídeo)<br>
-        2.4.4.2 - Como editar? (Resumo breve e vídeo)<br>
-        2.4.4.3 - Como excluir? (Resumo breve e vídeo)<br>
+
+<div class="container">
+    <div class="cards">
+        <div class="card">
+            <div class="card__color-box"></div>
+            <div class="card__info">
+                <h2 class="card__title">
+                    <b>Como criar ?</b>
+                </h2>
+
+                <p class="card__text">
+                    <div class="teste1">
+                        <b>Movimentações Financeiras</b>
+                        <div class="teste2">
+                            ↳<b>Contas Analíticas</b>
+                           <div class="teste3">
+                            ↳<b>Adicionar</b>
+                           </div>
+                        </div>
+                     </div>
+                    </p><br />
+
+                </p>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+
+<img src="./gifs/movimentacoes_financeiras/contas_analiticas/add.gif" alt="imagem de help" width="50%"><br /><br />
+
+<div class="container">
+    <div class="cards">
+        <div class="card">
+            <div class="card__color-box"></div>
+            <div class="card__info">
+                <h2 class="card__title">
+                    <b>Como editar ?</b>
+                </h2>
+
+                <p class="card__text">
+                    <div class="teste1">
+                        <b>Movimentações Financeiras</b>
+                        <div class="teste2">
+                            ↳<b>Contas Analíticas</b>
+                           <div class="teste3">
+                            ↳<b>Editar</b>
+                           </div>
+                        </div>
+                     </div>
+                    </p><br />
+
+                </p>
+
+                <h2 class="card__title">
+                    <b>Como excluir?</b>
+                </h2>
+
+                <p class="card__text">
+                    <div class="teste1">
+                        <b>Movimentações Financeiras</b>
+                        <div class="teste2">
+                            ↳<b>Contas Analíticas</b>
+                           <div class="teste3">
+                            ↳<b>Excluir</b>
+                           </div>
+                        </div>
+                     </div>
+                    </p><br />
+
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+
+<img src="./gifs/movimentacoes_financeiras/contas_analiticas/delete.gif" alt="imagem de help" width="50%"><br /><br />
 
 <div class="container">
     <div class="cards">
@@ -728,5 +895,15 @@
     2.7.4 - Extrato da Conta (Resumo breve e vídeo de como emitir) <br>
 
 
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+
+        $(document).ready(function () {
+            $('img').click(function () {
+                $(this).toggleClass('zoomed');
+            });
+        });
+
+    </script>
 </body>
 </html>
