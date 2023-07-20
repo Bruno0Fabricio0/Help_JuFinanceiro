@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help de Sistema</title>
+
+<style>
+    body{
+        background-color: #fff;
+    }
+
+    .container{
+        margin-left: 0;
+    }
+    
+    .cards{
+        display: flex;
+        justify-content: space-between;
+        gap: 30px 0;
+        flex-wrap: wrap;
+    }
+    
+    .card{
+        position: relative;
+        width: 50%;
+        color: #000000;
+        border: 3px solid rgba(181,181,181,0.2);
+        border-radius: 15px;
+        background-color: #dfe7f4;
+        box-shadow: 20px 0px 50px -30px #027be3;
+    
+    }
+    
+    .card__color-box{
+        position: absolute;
+        top: -3px;
+        left: -3px;
+        height: 100%;
+        box-sizing: unset;
+        background-color: #027be3;
+        border: 3px solid #027be3;
+        box-shadow: 0 0 30px 5px rgba(2, 123, 277, 0.5);
+        border-radius: 15px 0 0 15px;
+        padding-left: 15px;
+    }
+    
+    .card__info{
+        padding: 20px 20px 20px 40px;
+    }
+    
+    .card__title{
+        padding-bottom: 10px;
+    }
+    
+    .img-tema{
+        margin-top: 30px;
+    }
+    
+    img{
+        margin-left: 5px;
+    }
+    
+    p {
+        max-width: 50%;
+        margin-left: 15px;
+    }
+    
+    #info{
+        max-width: 44%;
+        background-color: #121212;
+        margin-left: 15px;
+    }
+    
+    h2{
+        margin-left: 15px;
+    }
+    
+    h3{
+        margin-left: 15px;
+    }
+    
+    i{
+        margin-left: 15px;
+    }
+    
+    a:link {
+        color:#000000;
+        text-decoration:none;
+    }
+    a:visited {
+        color:#027be3;
+        text-decoration:none;
+    }
+    a:hover {
+        color:#000000;
+        text-decoration:underline;
+    }
+    a:active {
+        color:#027be3;
+        text-decoration:underline;
+        background-color:#000000;
+    }
+
+
+
+
+.teste1 {
+    margin-left: 20px;
+}
+
+.teste2 {
+    margin-left: 20px;
+}
+
+.teste3 {
+    margin-left: 20px;
+}
+
+.teste4 {
+    margin-left: 20px;
+}
+
+.teste5 {
+    margin-left: 20px;
+}
+
+/* dando zoom na imagem */
+.zoomed {
+    width: 87%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    cursor: zoom-out;
+}
+    
+</style>
+
+</head>
+
+<body>
+
+<div class="img-tema">
+<img src="./imagens/janela.svg" width="50%"/><br />
+</div>
+
+<div class="container">
+    <div class="cards">
+        <div class="card">
+            <div class="card__color-box"></div>
+            <div class="card__info">
+                <h2 class="card__title">
+                    <b>Dashboard</b>
+                </h2>
+                <p class="card__text">
+                    <b>Você verá as seguintes informações:</b><br />
+
+                    <p>
+                        ➡️ O dashboard é uma forma de mostrar os conteúdos coletados através do software 
+                        JuFinanceiro de várias fontes diferentes de uma só vez e com o tratamento
+                        adequado.
+                    </p>
+
+                    <ol>
+                        <li>Barra de pesquisa ao lado esquerdo.</li>
+                        <img src="./imagens/barra.png" width="30%"/><br />
+                        <li>Número de parceiros.</li>
+                        <img src="./imagens/parceiros.png" width="50%"/><br />
+                        <li>Quantidade de movimentações de conta.</li>
+                        <img src="./imagens/mov_de_contas.png" width="50%"/><br />
+                        <li>Quantidade utilizada de amarzenamento.</li>
+                        <img src="./imagens/armazenamento.png" width="50%"/><br />
+                        <li>Quantidade usuários.</li>
+                        <img src="./imagens/usuarios.png" width="50%"/><br />
+                        <li>Na parte infeior, podemos ver um gráfico mostrando as movimentações de contas,
+                            que pode ser filtrada pelos últimos, 60 dias, 30 dias e 7 dias.
+                        </li>
+                        <img src="./imagens/graficos.png" width="50%"/><br />
+
+                        <p><b>Dashboard geral:</b></p>
+                        <img src="./imagens/dashboard.png" width="50%"/><br />
+                    </ol>
+
+                    
+                    
+                    </p><br />
+                </p>
+            </div>
+        </div>
+
+</div>
+<br />
+
+<div class="container">
+    <div class="cards">
+        <div class="card">
+            <div class="card__color-box"></div>
+            <div class="card__info">
+                <h2 class="card__title">
+                    <b>Acessos</b>
+                </h2>
+                <p class="card__text">
+                    <b>Você verá as seguintes informações:</b><br />
+
+                    <p>
+                        ➡️ Os <b>Acessos</b> são uma resultante dos direitos de execução/permissão relacionado a um objeto de sistema.
+                    </p>
+
+                    <img src="./imagens/acessos.png" width="50%"/><br />
+
+                    </p><br />
+                </p>
+            </div>
+        </div>
+
+</div>
+<br />
+                                        
+<div class="container">
+    <div class="cards">
+        <div class="card">
+            <div class="card__color-box"></div>
+            <div class="card__info">
+                <h2 class="card__title">
+                    <b>Integrações</b>
+                </h2>
+                <p class="card__text">
+                    <b>Você verá as seguintes informações:</b><br />
+
+                    <p>
+                        ➡️ As <b>Integrações</b> 
+                    </p>
+
+                    <p>
+                        ➡️ O que é uma <b>NFS-e</b>?
+                        <p>Uma NFS-e (Nota Fiscal de Serviços Eletrônica) é um documento de existência digital, gerado e armazenado 
+                            eletronicamente em Ambiente Nacional pela RFB, pela prefeitura ou por outra entidade conveniada, 
+                            para documentar as operações de prestação de serviços.</p>
+                    </p>
+                    <p>➡️ Para emitur uma NFS-e você deve seguir os seguintes passos:</p>
+
+                    <p>➡️ Preencher os campos Ins. Municipal e CPF/CNPJ</p>
+
+                    <p class="card__text">
+                        <div class="teste1">
+                            <b>Organizações financeiras</b>
+                            <div class="teste2">
+                                ↳<b>Editar</b>
+                               <div class="teste3">
+                                    ↳<b>Preencher corretamente os campos</b>
+                                <div class="teste4">
+                                        ↳<b>Ins. Municipal e CPF/CNPJ</b> 
+                                </div>
+
+                               </div>
+                            </div>
+                         </div>
+                        </p><br />
+    
+                    </p>
+                    <img src="./imagens/org_fin.png" width="50%"/><br />
+
+                    <p>➡️ Após isto, preencha os seguintes campos.</p>
+
+                    <p class="card__text">
+                        <div class="teste1">
+                            <b>NFS-e</b>
+                            <div class="teste2">
+                                ↳<b>Preencha os seguintes campos</b>
+                               <div class="teste3">
+                                    ↳<b>Cnaes da Empresa</b>
+                                    <p>
+                                        ➡️ O que é um <b>Cnae</b>?
+                                        <p>textos.</p>
+                                    </p>
+                               </div>
+                               <div class="teste3">
+                                    ↳<b>Tipos de Serviços</b>
+                                    <p>
+                                        ➡️ Quais os <b>tipos de Serviços</b>?
+                                        <p>textos.</p>
+                                    </p>
+                                </div>
+                                
+                            </div>
+                         </div>
+                        </p><br />
+    
+                    </p>
+
+                    <img src="./gifs/nfse/preparandonfse.gif" width="50%"/><br />
+
+                    <p><b>➡️ Após isso faça os seguintes passos para ativação da NFS-e:</b></p>
+
+                    <p class="card__text">
+                        <div class="teste1">
+                            <b>Integrações</b>
+                            <div class="teste2">
+                                ↳<b>Ativar</b>
+                            </div>
+                         </div>
+                        </p><br />
+    
+                    </p>
+
+                    <p><b>➡️ Edite a NFS-e caso necessário:</b></p>
+
+                    <p class="card__text">
+                        <div class="teste1">
+                            <b>Integrações</b>
+                            <div class="teste2">
+                                ↳<b>Editar</b>
+                                <div class="teste3">
+                                    <p>↳ Autenticação.</p>
+                                    <p>↳ Aliquota e Local.</p>
+                                    <p>↳ Recibo.</p>
+                                </div>
+                            </div>
+                         </div>
+                        </p><br />
+    
+                    </p>
+
+                    <p><b>➡️ Após isso iremos gerar a NFS-e no campo RPS:</b></p>
+
+                    <p class="card__text">
+                        <div class="teste1">
+                            <b>NFS-e</b>
+                            <div class="teste2">
+                                ↳<b>RPS</b>
+                            </div>
+                         </div>
+                        </p>
+    
+                    </p>
+
+                    <p>
+                        ➡️ O que é <b>RPS</b>?
+                        <p>é o Recibo Provisório de Serviços. Documento autorizado pelo Fisco 
+                            e fornecido pelo contribuinte ao tomador do serviço contendo os dados de uma 
+                            prestação de serviços que deverão ser informados ou transmitidos posteriormente a
+                            o Fisco Municipal quando não for possível a geração imediata da respectiva NFS-e.</p>
+                    </p>
+
+                    <p><b>➡️ Preencha os campos:</b></p>
+                    
+                    <img src="./imagens/rpspng.png" width="50%"/><br />
+
+                </p>
+            </div>
+        </div>
+
+</div>
+<br />
+
+
+
+<div class="container">
+    <div class="cards">
+        <div class="card">
+            <div class="card__color-box"></div>
+            <div class="card__info">
+                <h2 class="card__title">
+                    <b>Faturamento</b>
+                </h2>
+                <p class="card__text">
+                    <b>Você verá as seguintes informações:</b><br />
+
+                    <p>
+                        <p>➡️ Os <b>Faturamentos</b> é um dos principais indicadores da saúde 
+                        financeira do seu negócio, desde que você saiba utilizá-lo.</p>
+                        <p>➡️ Primeiro, faturamento não é o mesmo que monetização, e você 
+                        precisa entender a diferença para determinar se está realmente ganhando 
+                        dinheiro para sua empresa.</p>
+                        <p>➡️ Além disso, existem várias outras métricas que precisam ser usadas 
+                        em conjunto para avaliar se o negócio está ganhando dinheiro suficiente, 
+                        se as vendas estão indo bem e se você terá os lucros esperados.</p>
+                    </p>
+
+                    <p><b>Planos:</b></p>
+                    <p class="card__text">
+                        <div class="teste1">
+                            <b>Sistema</b>
+                            <div class="teste2">
+                                ↳<b>Faturamento</b>
+                                <div class="teste3">
+                                    ↳<b>Planos</b>
+                                </div>
+                            </div>
+                         </div>
+                        </p><br />
+    
+                    </p>
+
+                    <p><b>Cartões:</b></p>
+                    <p class="card__text">
+                        <div class="teste1">
+                            <b>Sistema</b>
+                            <div class="teste2">
+                                ↳<b>Faturamento</b>
+                                <div class="teste3">
+                                    ↳<b>Cartões</b>
+                                </div>
+                            </div>
+                         </div>
+                        </p><br />
+    
+                    </p>
+
+                    <p><b>Faturas:</b></p>
+                    <p class="card__text">
+                        <div class="teste1">
+                            <b>Sistema</b>
+                            <div class="teste2">
+                                ↳<b>Faturamento</b>
+                                <div class="teste3">
+                                    ↳<b>Faturas</b>
+                                </div>
+                            </div>
+                         </div>
+                        </p><br />
+    
+                    </p>
+
+
+                    <img src="./gifs/nfse/faturamento.gif" width="50%"/><br />
+
+                    </p><br />
+                </p>
+            </div>
+        </div>
+
+</div>
+<br />
+
+    
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+
+    $(document).ready(function () {
+        $('img').click(function () {
+            $(this).toggleClass('zoomed');
+        });
+    });
+
+</script>
+
+
+</body>
+</html>
