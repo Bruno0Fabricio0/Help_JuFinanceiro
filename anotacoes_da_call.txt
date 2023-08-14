@@ -1,0 +1,14 @@
+//CONTRATOS
+-> Modalidades:
+- é conforme o tipo de contrato.
+-> listar -> contrato -> adicionar.
+- explicar a diferença de prestador e tomador. (tomador de serviço: vivo) - (prestador de serviço: prefeitura).
+- Nome do contrato, algo simples que identifique o contrato.
+- Valor do contrato fixo x variável:
+	- fixo: 
+	- variável
+
+//PARCEIRO COMERCIAL
+-> Pode ser um contratado ou um contratante.
+-> pode ser uma pessoa física, jurídica ou estrageira, que tenha alguma relação comercial com a organização.
+-> Regime trubutário(pessoas jurídica).
