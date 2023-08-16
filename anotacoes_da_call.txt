@@ -12,3 +12,22 @@
 -> Pode ser um contratado ou um contratante.
 -> pode ser uma pessoa física, jurídica ou estrageira, que tenha alguma relação comercial com a organização.
 -> Regime trubutário(pessoas jurídica).
+
+
+
+
+// relatórios
+
+relatórios: é um campo de filtros com base nas movimentações cadastrais concluídas de receitas e despesas.
+
+um plano de contas são detalhamentos da conta analítica.
+
+centro de custo -> 
+
+-> demonstrativos de receitas e despesas: resumo de plano de contas por filtro aplicado.
+-> demonstrativos de movimentações: é o detalhamento das movimentações de cada plano de contas de acordo com o filtro aplicado.
+-> comparativo de contas: é o detalhamento de movimentações de mẽs a mẽs para facilitar a visualiazação das movimentações.
+-> extrato: é um resumo por conta financeira.
+
+
+-> plano de contas:
